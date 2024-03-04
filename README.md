@@ -1,4 +1,4 @@
-# NLP-assigment-Seinfeld-or-Friends-
+# NLP-assignment-Seinfeld-or-Friends-
 NLP (Natural Language Processing) project - Shows classification : Seinfeld or Friends 
 Having a dataset containing the scripts of all Seinfeld and Friends episodes,
 Our goal is to create a deep learning model that could identify whether a line was taken from a Seinfeld episode or a Friends episode.
